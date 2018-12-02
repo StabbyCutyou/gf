@@ -28,6 +28,35 @@ Please enjoy `gf` as your gateway to Golang productivity!
 
 Truly idiomatic gophers will want to use `gf` before each commit, when they may have accidently added files without realizing it.
 
+### Flags
+
+* a - reserved for future use
+* b - reserved for future use
+* c - reserved for future use
+* d - dry run, do not delete the original package files (however this leaves the package unable to compile)
+* e - reserved for future use
+* f - reserved for future use
+* g - reserved for future use
+* h - reserved for future use
+* i - reserved for future use
+* j - reserved for future use
+* k - reserved for future use
+* l - reserved for future use
+* m - reserved for future use
+* n - reserved for future use
+* o - organize certain package level fixtures at the top of the resulting Gofile, such as package level constants and variables
+* p - (required) The fully qualified path to the package. To be module-ready, this stands neither for path nor package, but an original word that I invented called `pathkage`
+* q - reserved for future use
+* r - reserved for future use
+* s - reserved for future use
+* t - reserved for future use
+* u - reserved for future use
+* v - reserved for future use
+* w - reserved for future use
+* x - reserved for future use
+* y - reserved for future use
+* z - reserved for future use
+
 ## Roadmap
 
 * Delete all the unidiomatic files after generating Gofile
